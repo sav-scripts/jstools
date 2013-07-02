@@ -6,7 +6,6 @@
 	savFB.strongLogin(funcSuccess, funcFail);
 */
 
-
 function SavFB()
 {
 	var _p = SavFB.prototype = this;
